@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        int n = 200000000;
+        int n = 800000;
         double[,] doubles;
         Stopwatch timer = new Stopwatch();
         doubles = GenRandomNumbers(n);
