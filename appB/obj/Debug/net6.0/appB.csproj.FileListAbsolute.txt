@@ -1,0 +1,15 @@
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\bin\Debug\net6.0\appB.exe
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\bin\Debug\net6.0\appB.deps.json
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\bin\Debug\net6.0\appB.runtimeconfig.json
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\bin\Debug\net6.0\appB.dll
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\bin\Debug\net6.0\appB.pdb
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.csproj.AssemblyReference.cache
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.AssemblyInfoInputs.cache
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.AssemblyInfo.cs
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.dll
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\refint\appB.dll
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.pdb
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\appB.genruntimeconfig.cache
+C:\Users\Ronnie\Documents\School\381\homework\homework1\appB\obj\Debug\net6.0\ref\appB.dll
